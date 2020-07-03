@@ -1,0 +1,1 @@
+KITTI data is not checked into repository. Run ../download_kitti_dataset.sh to download the KITTI-dataset. This may take some minutes (or hours).
