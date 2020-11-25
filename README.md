@@ -6,5 +6,5 @@ Project repository, which evaluates whether it is possible to detect obstacles o
 * The Network is trained on the  [KITTI dataset](http://www.cvlibs.net/datasets/kitti/).
 * To be applicable to simple mobile-phone cameras only stereo vision is used (i.e. a single camera, not a pair of two cameras).
 * The data for transfer learning is a novel dataset created for this project and can be found [here](./sidewalk-dataset).
-* Details and results can be found [here](./report.pdf).
 * This project was carried out as part of the "Computer Vision" course on the RWU, supervised by Prof. Stefan Elser.
+* Details and results can be found [here](./report.pdf).
